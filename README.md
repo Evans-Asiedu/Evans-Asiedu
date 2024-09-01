@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://davidmensahedem.github.io/](https://davidmensahedem.github.io/)
 
-- 💬 Contact me for **Web Applications**
+- 💬 Contact me for **Web and Mobile Applications**
 
 - 📫 How to reach me **evansasiedu352@gmail.com**
 
