@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/17qPLehyFB28fIIMRcawrPxsj476vk5XP/view?usp=sharing)
 
-- ⚡ Fun fact **Compare me to light and I may be fast. May be I am space**
+- ⚡ Fun fact **Compare me to light and I may be faster. May be I am space**
   
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caleb-mantey" alt="caleb-mantey" /></a> </p> -->
