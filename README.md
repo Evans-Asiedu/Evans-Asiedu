@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **evansasiedu352@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1Yzyr_BlyS3TzBHOC_bEIRM0o9R_6LXcM/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1txVhoLwl_YYzre8bHIQXy-J5ndXvjS5T/view?usp=sharing)
 
 - ⚡ Fun fact **Compare me to light and I may be faster. May be I am space**
   
