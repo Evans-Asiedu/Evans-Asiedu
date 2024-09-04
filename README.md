@@ -4,7 +4,7 @@
 
 <br />
 
-- 👨‍💻 All of my projects are available at [https://davidmensahedem.github.io/](https://davidmensahedem.github.io/)
+- 👨‍💻 All of my projects are available at [https://evans-asiedu.github.io/](https://evans-asiedu.github.io/)
 
 - 💬 Contact me for **Web and Mobile Applications**
 
