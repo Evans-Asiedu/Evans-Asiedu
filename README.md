@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Evans K. Asiedu</h1>
+<h1 align="center">Hi 👋, I'm Evans</h1>
 <p align="center">A software developer specialized in front-end technologies. Highly adept at both independent and collaborative projects.</p>
 
 
