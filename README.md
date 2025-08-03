@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evans</h1>
-<p align="center">A software developer specialized in front-end technologies. Highly adept at both independent and collaborative projects.</p>
+<p align="center">A software developer specialized in both frontend and backend technologies. Highly adept at both independent and collaborative projects.</p>
 
 
 <br />
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **evansasiedu352@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1Bq4C_hy0ch_zQbSQpE9WXAAsnt5BKSLa/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1pWg9jlWzgBKXN-nDpgClL0UNuJoiM0Xi/view?usp=sharing)
 
 - ⚡ Fun fact **Compare me to light and I may be faster. May be I am space**
   
